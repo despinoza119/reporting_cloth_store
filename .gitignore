@@ -1,0 +1,6 @@
+
+.env
+.streamlit/secrets.toml
+notebooks/.ipynb_checkpoints/data-checkpoint.ipynb
+notebooks/data.ipynb
+notebooks/Reporte_Marcas.xlsx
